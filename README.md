@@ -28,7 +28,7 @@ PORT=8787
 
 3. Restart `npm run dev`.
 
-Without a key, investment pages use **clearly labeled demo prices**.
+Without a key, investment pages use **clearly labeled demo prices**. **With a key, they model real-time market prices.**
 
 ## Scripts
 
